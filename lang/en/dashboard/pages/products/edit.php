@@ -1,0 +1,25 @@
+<?php
+
+return [
+'edit_product' => 'Edit Product (:name)',
+'subcategory' => 'Subcategory',
+'select' => 'Select',
+'name' => 'Name',
+'short_description' => 'Short Description',
+'description' => 'Description',
+'image' => 'Image',
+'price' => 'Price',
+'selling_price' => 'Selling Price',
+'quantity' => 'Quantity',
+'tax' => 'Tax',
+'status' => 'Status',
+'trend' => 'Trend',
+'meta_title' => 'Meta Title',
+'meta_keywords' => 'Meta Keywords (separate with commas)',
+'meta_description' => 'Meta Description',
+'update' => 'Update',
+'return_to_product' => 'Return To Product',
+'go_back' => 'Go Back',
+'required' => '*',
+'text_danger' => 'text-danger',
+];

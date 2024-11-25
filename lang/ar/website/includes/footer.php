@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'navigations' => 'التنقلات',
+    'sell_online' => 'بيع عبر الإنترنت',
+    'features' => 'الميزات',
+    'shopping_cart' => 'عربة التسوق',
+    'store_builder' => 'منشئ المتجر',
+    'mobile_commerce' => 'التجارة عبر الهاتف',
+    'dropshipping' => 'دروبشيبينغ',
+    'website_development' => 'تطوير المواقع',
+    'point_of_sale' => 'نقطة البيع',
+    'hardware' => 'الأجهزة',
+    'software' => 'البرمجيات',
+    'promo' => 'العروض',
+    'finding_promo' => 'ابحث عن العرض المثالي',
+    'promo_from' => 'العرض من',
+    'contact_info' => 'معلومات الاتصال',
+    'address' => '123 اسم الشارع، المدينة، البلد',
+    'phone' => 'الهاتف',
+    'email' => 'البريد الإلكتروني',
+    'subscribe' => 'اشترك',
+    'email_placeholder' => 'البريد الإلكتروني',
+    'send' => 'إرسال',
+    'copyright' => 'جميع الحقوق محفوظة',
+    'made_with' => 'هذا القالب تم تصميمه بحب',
+    'by_colorlib' => 'بواسطة Colorlib',
+];

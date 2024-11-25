@@ -1,0 +1,33 @@
+<?php
+
+return [
+    
+    'about_page' => 'About',
+    'home' => 'Home',
+    'about' => 'About',
+    'how_we_started' => 'How We Started',
+    'how_we_started_description' => 'Our journey began in 2015, when a group of passionate individuals came together with a shared vision of creating a platform that connects people with quality products. We started small, working from a modest office and driven by our belief in exceptional customer service and innovation. With hard work and determination, we gradually expanded our reach, establishing partnerships with local artisans and manufacturers to offer unique products that reflect the rich culture of our community.',
+    'accusantium_description' => 'As we grew, we faced many challenges, but our commitment to quality and customer satisfaction kept us moving forward. Today, we are proud to be a trusted name in the industry, known for our dedication to sustainable practices and ethical sourcing.',
+    'the_team' => 'The Team',
+    'ceo_co_founder' => 'CEO/Co-Founder',
+    'PeterAdel' => 'Peter Adel' ,
+    'MohamedAli' => 'Mohamed Ali ',
+    'marketer' => ' Fady ' ,
+    'elizabeth_description' => 'Peter adel a decade of experience in the industry, leading our team with vision and integrity. She believes in empowering her team to excel and drive the company towards greater heights.',
+    'co_founder' => 'Co-Founder',
+    'jennifer_description' => 'Mo Ali is a creative force behind our marketing strategies, bringing innovative ideas that resonate with our audience. Her passion for storytelling helps us connect deeply with our customers.',
+    'marketing' => 'Marketing',
+    'patrick_description' => 'Fady is the brains behind our marketing campaigns, with a keen eye for trends and consumer behavior. His analytical approach ensures our strategies are effective and impactful.',
+    'sales_manager' => 'Sales Manager',
+    'ahmedothman' => 'Ahmed Othman' ,
+    'mike_description' => 'Ahmed is a backend developer responsible for developing and maintaining the software systems that support applications and websites. He excels in writing efficient code and optimizing database performance. His commitment to delivering high-quality software solutions ensures smooth technical operations and enhances the user experience.',
+    'free_shipping' => 'Free Shipping',
+    'free_shipping_description' => 'We offer free shipping on all orders over $50, ensuring that our customers receive their products without any additional cost.',
+    'free_returns' => 'Free Returns',
+    'free_returns_description' => 'We understand that sometimes things don’t work out. That’s why we offer free returns within 30 days, making shopping with us hassle-free.',
+    'customer_support' => 'Customer Support',
+    'customer_support_description' => 'Our dedicated customer support team is here to assist you with any inquiries or concerns. We pride ourselves on providing timely and effective support to enhance your shopping experience.',    
+    'bahaa' => 'Bahha Al Hawary',
+    'bahaa_description' => 'Bahaa was a software engineer passionate about solving problems. Every day, he spent long hours in front of his screen, writing code and developing programs to make people lives easier. One day, while working on a new project, he encountered a complex problem that seemed to get more difficult the more he tried to solve it.' ,
+    'bahaajob' => 'Software Devloper',
+];
